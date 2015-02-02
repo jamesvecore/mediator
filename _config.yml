@@ -3,33 +3,61 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "James Vecore"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   James Vecore's Blog
 
-email: a-mail@mail.mail
+email: james.vecore@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/jv_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/default.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'James Vecore'
+author: 'James Vecore'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://www.jamesvecore.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+  - icon:	github
+    url:	https://github.com/jamesvecore
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: vimeo-square
+    url:  https://vimeo.com/jamesvecore
+    desc: Watch me on Vimeo
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: linkedin
+    url:  https://www.linkedin.com/in/jamesvecore
+    desc: Stalk me on LinkedIn
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: twitter
+    url:  https://twitter.com/jamesvecore
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
+
+  - icon: rss
+    url:  "/feed.xml"
+    desc: Subscribe to me RSS
+    share_url:
+    share_title:
+    share_link:
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -37,13 +65,6 @@ social:
 #    share_url: //www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???

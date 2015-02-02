@@ -2,16 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+tags: [Me, James Vecore]
+image: /assets/images/trees2.jpg
+share: false
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I am a CG/VFX Software Engineer with 10+ years of experience creating custom software, pipelines, and infrastructure for studios in Detroit and Los Angeles. I've bootstrapped three studios from scratch over the years taking them from zero infrastructure to complete, artist-friendly CG/VFX pipelines.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I work regularly in C/C++, Python, MEL, Maxscript, and C# and I'm comfortable in many other languages like Javascript, Java, Matlab, HScript, etc. I've written scripts and plugins for 3ds Max, Maya, Softimage, Houdini, Cinema4D, Nuke, After Effects, and more.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am effective at working directly with 3D artists to build tools and workflows to solve their everyday needs and issues while balancing the studio's priorities and long term projects/goals.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm also an advocate of pushing higher level software engineering practices into the CG/VFX realm including unit-testing, integration testing, continuous integration, automated deployments and more.
